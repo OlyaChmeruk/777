@@ -21,7 +21,7 @@ namespace Kursach
         {
             this.n = 0;
         }
-
+        /////////////////////////////////////////////////////////
         /**
        Check whether fieldstate is empty
        */
